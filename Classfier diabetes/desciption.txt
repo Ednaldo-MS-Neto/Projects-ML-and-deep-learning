@@ -1,0 +1,8 @@
+Pregnancies: Número de vezes que ficou grávida
+GlucosePlasma: Concentração de glicose
+BloodPressure:Pressão sanguínea
+Skin: Espessura da dobra do tríceps
+Insulin: Insulina sérica de 2 horas
+BMI: Índice de massa corporal
+DiabetesPedigreeFunction: Histórico de diabates na família 
+Age: Idade
