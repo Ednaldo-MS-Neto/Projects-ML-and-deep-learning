@@ -18,3 +18,5 @@ This is a folder with projects about deep learning and machine learning
 8-Classifier transit plates
 
 9-Classification image CIFAR-10
+
+10-Transfer learning for classfier cat and dogs(ResNet50)
