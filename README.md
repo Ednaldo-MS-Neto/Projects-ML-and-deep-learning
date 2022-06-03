@@ -26,3 +26,5 @@ This is a folder with projects about deep learning and machine learning
 12-Encoder-Decoder noisy images
 
 13-Encoder-Decoder image compression
+
+14-Encoder-Decoder image compression
