@@ -23,4 +23,6 @@ This is a folder with projects about deep learning and machine learning
 
 11-Transfer learning for classifer flower's (MobileNet)
 
-12- Encoder noised images
+12-Encoder-Decoder noisy images
+
+13-Encoder-Decoder image compression
