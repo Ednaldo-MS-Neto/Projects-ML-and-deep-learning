@@ -28,3 +28,7 @@ This is a folder with projects about deep learning and machine learning
 13-Encoder-Decoder image compression
 
 14-Encoder-Decoder image compression
+
+15-Deep dream
+
+16-Gans images
